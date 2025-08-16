@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+
+pip install -r requirements.txt
+
+copy this command and paste in cmd 
